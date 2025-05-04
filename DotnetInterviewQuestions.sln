@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicVsObject", "DynamicVsObject\DynamicVsObject.csproj", "{246CAB4E-9EAA-4571-916E-6BC1D81A6F80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOClasses", "POCOClasses\POCOClasses.csproj", "{93386419-3E10-4292-B202-7A0C2498F7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStruct", "ClassVsStruct\ClassVsStruct.csproj", "{6FA831E4-0029-40AB-8014-51FCCA42C2A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{246CAB4E-9EAA-4571-916E-6BC1D81A6F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{246CAB4E-9EAA-4571-916E-6BC1D81A6F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{246CAB4E-9EAA-4571-916E-6BC1D81A6F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93386419-3E10-4292-B202-7A0C2498F7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93386419-3E10-4292-B202-7A0C2498F7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93386419-3E10-4292-B202-7A0C2498F7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93386419-3E10-4292-B202-7A0C2498F7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
