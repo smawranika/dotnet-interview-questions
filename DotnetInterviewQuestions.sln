@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCOClasses", "POCOClasses\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassVsStruct", "ClassVsStruct\ClassVsStruct.csproj", "{6FA831E4-0029-40AB-8014-51FCCA42C2A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Record", "Record\Record.csproj", "{37EA6BD6-6541-410D-AAC7-514545DCDCEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA831E4-0029-40AB-8014-51FCCA42C2A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37EA6BD6-6541-410D-AAC7-514545DCDCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EA6BD6-6541-410D-AAC7-514545DCDCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EA6BD6-6541-410D-AAC7-514545DCDCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EA6BD6-6541-410D-AAC7-514545DCDCEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
