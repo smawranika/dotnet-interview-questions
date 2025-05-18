@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyClass", "LazyClass\Lazy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualsVsGetHashCode", "EqualsVsGetHashCode\EqualsVsGetHashCode.csproj", "{B5267297-2C4A-4372-A358-63827539D1FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutVsPatch", "PutVsPatch\PutVsPatch.csproj", "{B4066B5C-2B6A-4D09-9BBE-D183D4941F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span", "Span\Span.csproj", "{EA1958EF-B989-44BD-B9B3-FD72FD17747B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +52,17 @@ Global
 		{B5267297-2C4A-4372-A358-63827539D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5267297-2C4A-4372-A358-63827539D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5267297-2C4A-4372-A358-63827539D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4066B5C-2B6A-4D09-9BBE-D183D4941F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4066B5C-2B6A-4D09-9BBE-D183D4941F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4066B5C-2B6A-4D09-9BBE-D183D4941F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4066B5C-2B6A-4D09-9BBE-D183D4941F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C4E9D9-8EF2-41FF-9979-EF767D7EF3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C4E9D9-8EF2-41FF-9979-EF767D7EF3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C4E9D9-8EF2-41FF-9979-EF767D7EF3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C4E9D9-8EF2-41FF-9979-EF767D7EF3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1958EF-B989-44BD-B9B3-FD72FD17747B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1958EF-B989-44BD-B9B3-FD72FD17747B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1958EF-B989-44BD-B9B3-FD72FD17747B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1958EF-B989-44BD-B9B3-FD72FD17747B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
